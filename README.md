@@ -12,7 +12,7 @@ Based in Helsinki :finland: and looking for new stuff to do.
 - Math is always an option, but never drink and derive :beers:
 ### You can reach me
 - Email: david.horvath@gmx.de
-- Linkedin: [https://www.linkedin.com/in/david-horvath-9732082b1/](profile)[^1]
+- Linkedin: [https://www.linkedin.com/in/david-horvath-9732082b1/](profile) [^1] <br />
 [^1] sadly without jokes (they stopped me)
 
 ## I Do Stuff
