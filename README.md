@@ -1,10 +1,12 @@
 ## Hello there 👋
 
-I'm David, I do cool stuff with code.
-I make and break code for the funny and enjoy it to the fullest.
+# About Me
+I'm *David*, I do cool stuff with code.
+I **make** and **break** code for the funny and enjoy it every day.
 
-I am a student @Hive Helsinki.
+I am a student @HiveHelsinki.
 
+# Do Stuff
 Hit me up if there is a CTF to take part in, or some schenanigans to shenaniganise.
 Check my Project #here.
 For writeups i havent written look #here.
