@@ -1,23 +1,35 @@
 # Hello there 👋
 
 ## About Me
-I'm *David*, I do cool stuff with code.
-I **make** and **break** code for the funny and enjoy it every day.
+I'm *David*, I do cool stuff with code.	:frog: <br/>
+I **make** and **break** code for the funny and enjoy it every day.<br/>
 
 I am a student @HiveHelsinki.
 
-Based in Helsinki and looking for new stuff to do.
-- I am a big fan of new tech and increasing shareholder value
-- Coding and teaching are the greatest best things since grilled cheeses invention
-- Math is always an option, but never drink and derive
+Based in Helsinki :finland: and looking for new stuff to do.
+- I am a big fan of new tech and increasing shareholder value :technologist:
+- Coding and teaching are the greatest best things since grilled cheeses invention :sandwich:
+- Math is always an option, but never drink and derive :beers:
 
-## Do Stuff
-Hit me up if there is a CTF to take part in, or some schenanigans to shenaniganise.
-Check my Project #here.
-For writeups i havent written look #here.
+## I Do Stuff
+> When the math isn't mathing violence is always a solution.
+### Security
+My HTB track record :green_square: [https://app.hackthebox.com/profile/1751580](Profile)<br/>
+Hit me up if there is a CTF to take part in, or some schenanigans to shenaniganise. <br/>
+Check my Project :point_right: here <br/>
+For writeups i havent written yet look here :point_left: <br/>
 > [!CAUTION]
 > Those might not be great and they are work in progress. Your mileage may vary.
-As a rule of thumb:
+
+### Cool graphics stuff
+> Tracing rays is fun until they trace computer
+<!--
+Peep these visuals: :eyes:
+#### FDF
+
+#### RT
+-->
+As a rule of thumb: :shipit: <br/>
 ```
 git add . && git commit -m "lets test in production" && git push -f -u origin master
 ```
