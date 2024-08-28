@@ -20,8 +20,11 @@ sadly without jokes :arrow_heading_up: (they stopped me)
 ### Security
 My HTB track record :green_square: [Profile](https://app.hackthebox.com/profile/1751580)<br/>
 Hit me up if there is a CTF to take part in, or some schenanigans to shenaniganise. <br/>
+
 > In case of an emergency rm -rf / and unplug the machine
+
 For writeups i havent written yet look here :point_left: <br/>
+
 > [!CAUTION]
 > Those might not be great and they are work in progress so your mileage may vary.
 
