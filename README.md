@@ -1,8 +1,8 @@
 # Hello there 👋
 
 ## About Me
-I'm *David*, I do cool stuff with code.	:frog: <br/>
-I **make** and **break** code for the funny and enjoy it every day.<br/>
+I'm *David*, I do cool stuff often with code. <br/>
+I **make** and **break** code :wrench:, usually for the funny and enjoy it every day. <br/>
 
 I am a student @HiveHelsinki.
 
@@ -10,19 +10,23 @@ Based in Helsinki :finland: and looking for new stuff to do.
 - I am a big fan of new tech and increasing shareholder value :technologist:
 - Coding and teaching are the greatest best things since grilled cheeses invention :sandwich:
 - Math is always an option, but never drink and derive :beers:
+### You can reach me
+- Email: david.horvath@gmx.de
+- Linkedin: [https://www.linkedin.com/in/david-horvath-9732082b1/](profile)[^1]
+[^1] sadly without jokes (they stopped me)
 
 ## I Do Stuff
 > When the math isn't mathing violence is always a solution.
 ### Security
 My HTB track record :green_square: [https://app.hackthebox.com/profile/1751580](Profile)<br/>
 Hit me up if there is a CTF to take part in, or some schenanigans to shenaniganise. <br/>
-Check my Project :point_right: here <br/>
 For writeups i havent written yet look here :point_left: <br/>
 > [!CAUTION]
-> Those might not be great and they are work in progress. Your mileage may vary.
+> Those might not be great and they are work in progress so your mileage may vary.
 
-### Cool graphics stuff
+### Cool graphics stuff :frog: 
 > Tracing rays is fun until they trace computer
+Check my Project :point_right: here <br/>
 <!--
 Peep these visuals: :eyes:
 #### FDF
@@ -33,7 +37,8 @@ As a rule of thumb: :shipit: <br/>
 ```
 git add . && git commit -m "lets test in production" && git push -f -u origin master
 ```
-
+> [!IMPORTANT]
+> For any active 42 student plagarism is bad, inspiration is alright, but figuring stuff out is even greater 
 <!--
 **DaveeHorvath/DaveeHorvath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
